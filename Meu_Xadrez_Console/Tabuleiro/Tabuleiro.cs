@@ -28,5 +28,11 @@ namespace TabuleiroNameSpace
         {
             return this.pecas[linha, coluna];
         }
+
+        public void ColocarPeca(Peca p, Posicao pos)
+        {
+            this.pecas[pos.Linha, pos.Coluna] = p;
+            p.Posicao = pos;
+        }
     }
 }

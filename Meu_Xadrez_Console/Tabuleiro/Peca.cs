@@ -13,16 +13,13 @@ namespace TabuleiroNameSpace
         public int QuantidadeMovimentos { get; protected set; }
         public Tabuleiro Tabuleiro { get; protected set; }
 
-        public Peca()
-        {
-                
-        }
+        
 
-        public Peca(Posicao posicao, Cor cor, Tabuleiro tabuleiro)
+        public Peca(Tabuleiro tab, Cor cor) 
         {
-            this.Posicao = posicao;
+            this.Posicao = null;
             this.Cor = cor;
-            this.Tabuleiro = tabuleiro;
+            this.Tabuleiro = tab;
             this.QuantidadeMovimentos = 0;
 
         }
