@@ -1,0 +1,16 @@
+E:\DEV\CURSOS\UDEMY\C#_COMPLETO_POO_PROJETOS\SECAO_12\Course\Meu_Xadrez_Console\Meu_Xadrez_Console\bin\Debug\net5.0\Meu_Xadrez_Console.exe
+E:\DEV\CURSOS\UDEMY\C#_COMPLETO_POO_PROJETOS\SECAO_12\Course\Meu_Xadrez_Console\Meu_Xadrez_Console\bin\Debug\net5.0\Meu_Xadrez_Console.deps.json
+E:\DEV\CURSOS\UDEMY\C#_COMPLETO_POO_PROJETOS\SECAO_12\Course\Meu_Xadrez_Console\Meu_Xadrez_Console\bin\Debug\net5.0\Meu_Xadrez_Console.runtimeconfig.json
+E:\DEV\CURSOS\UDEMY\C#_COMPLETO_POO_PROJETOS\SECAO_12\Course\Meu_Xadrez_Console\Meu_Xadrez_Console\bin\Debug\net5.0\Meu_Xadrez_Console.runtimeconfig.dev.json
+E:\DEV\CURSOS\UDEMY\C#_COMPLETO_POO_PROJETOS\SECAO_12\Course\Meu_Xadrez_Console\Meu_Xadrez_Console\bin\Debug\net5.0\Meu_Xadrez_Console.dll
+E:\DEV\CURSOS\UDEMY\C#_COMPLETO_POO_PROJETOS\SECAO_12\Course\Meu_Xadrez_Console\Meu_Xadrez_Console\bin\Debug\net5.0\ref\Meu_Xadrez_Console.dll
+E:\DEV\CURSOS\UDEMY\C#_COMPLETO_POO_PROJETOS\SECAO_12\Course\Meu_Xadrez_Console\Meu_Xadrez_Console\bin\Debug\net5.0\Meu_Xadrez_Console.pdb
+E:\DEV\CURSOS\UDEMY\C#_COMPLETO_POO_PROJETOS\SECAO_12\Course\Meu_Xadrez_Console\Meu_Xadrez_Console\obj\Debug\net5.0\Meu_Xadrez_Console.csprojAssemblyReference.cache
+E:\DEV\CURSOS\UDEMY\C#_COMPLETO_POO_PROJETOS\SECAO_12\Course\Meu_Xadrez_Console\Meu_Xadrez_Console\obj\Debug\net5.0\Meu_Xadrez_Console.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\CURSOS\UDEMY\C#_COMPLETO_POO_PROJETOS\SECAO_12\Course\Meu_Xadrez_Console\Meu_Xadrez_Console\obj\Debug\net5.0\Meu_Xadrez_Console.AssemblyInfoInputs.cache
+E:\DEV\CURSOS\UDEMY\C#_COMPLETO_POO_PROJETOS\SECAO_12\Course\Meu_Xadrez_Console\Meu_Xadrez_Console\obj\Debug\net5.0\Meu_Xadrez_Console.AssemblyInfo.cs
+E:\DEV\CURSOS\UDEMY\C#_COMPLETO_POO_PROJETOS\SECAO_12\Course\Meu_Xadrez_Console\Meu_Xadrez_Console\obj\Debug\net5.0\Meu_Xadrez_Console.csproj.CoreCompileInputs.cache
+E:\DEV\CURSOS\UDEMY\C#_COMPLETO_POO_PROJETOS\SECAO_12\Course\Meu_Xadrez_Console\Meu_Xadrez_Console\obj\Debug\net5.0\Meu_Xadrez_Console.dll
+E:\DEV\CURSOS\UDEMY\C#_COMPLETO_POO_PROJETOS\SECAO_12\Course\Meu_Xadrez_Console\Meu_Xadrez_Console\obj\Debug\net5.0\ref\Meu_Xadrez_Console.dll
+E:\DEV\CURSOS\UDEMY\C#_COMPLETO_POO_PROJETOS\SECAO_12\Course\Meu_Xadrez_Console\Meu_Xadrez_Console\obj\Debug\net5.0\Meu_Xadrez_Console.pdb
+E:\DEV\CURSOS\UDEMY\C#_COMPLETO_POO_PROJETOS\SECAO_12\Course\Meu_Xadrez_Console\Meu_Xadrez_Console\obj\Debug\net5.0\Meu_Xadrez_Console.genruntimeconfig.cache
