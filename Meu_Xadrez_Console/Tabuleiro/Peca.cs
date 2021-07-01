@@ -26,5 +26,7 @@ namespace TabuleiroNameSpace
             this.QuantidadeMovimentos = 0;
 
         }
+
+        
     }
 }

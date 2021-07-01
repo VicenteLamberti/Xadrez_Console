@@ -10,7 +10,7 @@ namespace TabuleiroNameSpace
     {
         public int Linhas { get; set; }
         public int Colunas { get; set; }
-        private Peca[,] Pecas;
+        private Peca[,] pecas;
 
         public Tabuleiro()
         {
@@ -21,7 +21,12 @@ namespace TabuleiroNameSpace
         {
             this.Linhas = linhas;
             this.Colunas = colunas;
-            this.Pecas = new Peca[linhas, colunas];
+            this.pecas = new Peca[linhas, colunas];
+        }
+
+        public Peca peca(int linha, int coluna)
+        {
+            return this.pecas[linha, coluna];
         }
     }
 }
