@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Meu_Xadrez_Console.Tabuleiro
+namespace TabuleiroNameSpace
 {
     class Posicao
     {

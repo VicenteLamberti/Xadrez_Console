@@ -1,4 +1,4 @@
-﻿using Meu_Xadrez_Console.Tabuleiro;
+﻿using TabuleiroNameSpace;
 using System;
 
 namespace Meu_Xadrez_Console
@@ -10,6 +10,8 @@ namespace Meu_Xadrez_Console
             Posicao posicao = new Posicao(3, 4);
 
             Console.WriteLine(posicao);
+
+            Tabuleiro tabuleiro = new Tabuleiro(8, 8);
             
         }
     }
