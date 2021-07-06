@@ -14,12 +14,9 @@ namespace Meu_Xadrez_Console
             //Console.WriteLine(pos);
             try
             {
-                Tabuleiro tab = new Tabuleiro(8, 8);
-                tab.ColocarPeca(new Torre(tab, Cor.Preta), new Posicao(0, 0));
+                PartidaDeXadrez partida = new PartidaDeXadrez();
 
-                tab.ColocarPeca(new Rei(tab, Cor.Branca), new Posicao(1, 3));
-
-                Tela.ImprimirTabuleiro(tab);
+                Tela.ImprimirTabuleiro(partida.tab);
             }
             catch (TabuleiroException e)
             {

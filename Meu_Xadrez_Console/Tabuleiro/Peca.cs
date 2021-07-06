@@ -24,6 +24,11 @@ namespace TabuleiroNameSpace
 
         }
 
+        public void incrementarQteMovimento()
+        {
+            QuantidadeMovimentos++;
+        }
+
         
     }
 }
