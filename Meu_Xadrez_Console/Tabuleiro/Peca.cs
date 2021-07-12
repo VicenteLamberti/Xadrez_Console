@@ -45,6 +45,11 @@ namespace TabuleiroNameSpace
             return false;
         }
 
+
+        public bool podeMoverPara(Posicao pos)
+        {
+            return movimentosPossiveis()[pos.Linha, pos.Coluna];
+        }
         public abstract bool[,] movimentosPossiveis();
         
 
