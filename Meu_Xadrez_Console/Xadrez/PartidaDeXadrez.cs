@@ -257,7 +257,6 @@ namespace XadrezNameSpace
             colocarNovaPeca('h', 2, new Peao(tab, Cor.Branca));
 
 
-
             colocarNovaPeca('a', 8, new Torre(tab, Cor.Preta));
             colocarNovaPeca('b', 8, new Cavalo(tab, Cor.Preta));
             colocarNovaPeca('c', 8, new Bispo(tab, Cor.Preta));

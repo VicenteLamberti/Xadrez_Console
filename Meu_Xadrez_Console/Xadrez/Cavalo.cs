@@ -37,7 +37,7 @@ namespace XadrezNameSpace
                 mat[pos.Linha, pos.Coluna] = true;
             }
 
-            pos.definirValores(Posicao.Linha - 2, Posicao.Coluna - -1);
+            pos.definirValores(Posicao.Linha - 2, Posicao.Coluna-1);
             if (Tabuleiro.PosicaoValida(pos) && podeMover(pos))
             {
                 mat[pos.Linha, pos.Coluna] = true;
